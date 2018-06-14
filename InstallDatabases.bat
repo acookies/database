@@ -1,7 +1,7 @@
 @ECHO OFF
 
 rem -- Change the values below to match your server --
-set mysql=Tools\
+ mysql=Tools\
 set svr=localhost
 set newuser=mangos
 set user=root
